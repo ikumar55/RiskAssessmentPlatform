@@ -1,0 +1,29 @@
+# Data handling & analysis
+pandas
+numpy
+scipy
+
+# Machine learning
+scikit-learn
+xgboost
+imbalanced-learn
+
+# Model explainability
+shap
+
+# Financial data
+yfinance
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebooks
+jupyter
+
+# Deployment & dashboard
+streamlit
+flask
+
+# Utilities
+joblib
